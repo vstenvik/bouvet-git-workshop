@@ -1,7 +1,8 @@
 Hei!
 
-Dette er en fil
+Dette er en fil, med en bug :(
 Endring B
 Endring C
 Endring D
 Endring E
+Endring F
