@@ -4,3 +4,4 @@ Dette er en fil
 Endring B
 Endring C
 Endring D
+Endring E
