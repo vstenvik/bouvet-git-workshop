@@ -2,3 +2,4 @@ Hei!
 
 Dette er en fil
 Endring B
+Endring C
